@@ -8,6 +8,7 @@
   "os:ios": {},
   "os:mobileweb": {},
   "dependencies": {
-    "com.orthlieb.navigationgroup": "*"
+    "com.orthlieb.navigationgroup": "*",
+    "com.mcongrove.navigationBar": "*"
   }
 }
