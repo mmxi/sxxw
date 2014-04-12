@@ -31,8 +31,6 @@
 	height: "50dp"
 },
 "#leftImage": {
-	top: "9dp",
-	left: "9dp",
 	width: "28dp",
 	height: "28dp"
 },
@@ -46,8 +44,6 @@
 	height: "50dp"
 },
 "#backImage": {
-	top: "9dp",
-	left: "9dp",
 	width: "28dp",
 	height: "28dp",
 	preventDefaultImage: true
@@ -62,8 +58,6 @@
 	height: "50dp"
 },
 "#nextImage": {
-	top: "9dp",
-	right: "9dp",
 	width: "28dp",
 	height: "28dp",
 	preventDefaultImage: true
@@ -78,8 +72,6 @@
 	height: "50dp"
 },
 "#rightImage": {
-	top: "9dp",
-	left: "10dp",
 	width: "28dp",
 	height: "28dp"
 }

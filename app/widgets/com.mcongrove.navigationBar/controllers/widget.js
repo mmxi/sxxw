@@ -26,15 +26,15 @@ if(CONFIG.image) {
 	});
 } else {
 	$.title = Ti.UI.createLabel({
-		top: "0dp",
 		left: "58dp",
 		right: "58dp",
-		height: "46dp",
+		height: "44dp",
 		font: {
 			fontSize: "18dp",
 			fontFamily: "HelveticaNeue-Medium"
 		},
-		color: theme == "white" ? "#FFF" : "#000",
+		// color: theme == "white" ? "#FFF" : "#000",
+		color: CONFIG.theme == "white" ? "#FFF" : "#000",
 		textAlign: "center",
 		text: CONFIG.text ? CONFIG.text : ""
 	});
